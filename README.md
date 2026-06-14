@@ -19,7 +19,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/SubaruXnatsuki"><img src="[https://ibb.co/MydnzhmM]"></a>
+  <a href="https://t.me/SubaruXnatsuki"><img src="https://ibb.co/MydnzhmM"></a>
     </p>
 <p align="center">
 
@@ -40,16 +40,12 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <p align="center">
 <a href="https://telegram.me/SubaruXnatsuki"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
-<p align="center">
-<a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-</p>
 
 <a href="https://github.com/irfanx1">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=irfanx1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/SubaruXnatsuki/)
-
 <div style="text-align: center;">
   <a href="">
     <img align="center" width="100" src="./images/okay.png">
