@@ -22,14 +22,14 @@ Hehe~ another cutie has been caught stalking my profile 😏.
   <a href="https://t.me/SubaruXnatsuki"><img src="https://files.catbox.moe/ajem4d.jpg"></a>
     </p>
 <p align="center">
+
 </p>
-<p
 
 <h3>
 <a href=""><img align="left" width="100" src="./images/cry.png"></a>
 
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
-</p>  
+
 
 [<img src="https://github-readme-stats.vercel.app/api?username=irfanx1&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/irfanx1) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanx1&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/irfanx1)
     
