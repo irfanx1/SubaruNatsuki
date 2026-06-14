@@ -45,7 +45,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 </p>
 
 <a href="https://github.com/irfanx1">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=codeflix-bots&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=irfanx1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/SubaruXnatsuki/)
