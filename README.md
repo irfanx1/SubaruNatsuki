@@ -52,5 +52,5 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 <div style="text-align: center;">
   <a href="">
-    <img align="center" width="100" src="./images/done.png">
+    <img align="center" width="100" src="./images/okay.png">
   </a>
