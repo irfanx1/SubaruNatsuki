@@ -19,7 +19,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/SubaruXnatsuki"><img src="https://ibb.co/MydnzhmM"></a>
+  <a href="https://t.me/SubaruXnatsuki"><img src="https://files.catbox.moe/ajem4d.jpg"></a>
     </p>
 <p align="center">
 
