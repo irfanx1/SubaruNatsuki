@@ -8,7 +8,6 @@
 <br><br>
 
 ## **🧋Cutie Counter**
-
 <a href=""><img align="right" width=400 src="https://count.getloli.com/get/@codeflix-bots?theme=rule34"></a>
 <a href=""><img align="left" width="100" src="./images/cuite.png"></a>
 
@@ -29,7 +28,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 <h3>
 <a href=""><img align="left" width="100" src="./images/cry.png"></a>
-  
+<br>  
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
 
 
