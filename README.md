@@ -4,12 +4,15 @@
 
 ## **☕ About me**
 
-<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Subaru. My hobbies include gaming, watching anime, learning coding, and creating bugs professionally while fixing them emotionally.**
 <br><br>
 
 ## **🧋Cutie Counter**
-<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@irfanx1?theme=rule34"></a>
+
+<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@codeflix-bots?theme=rule34"></a>
 <a href=""><img align="left" width="100" src="./images/cuite.png"></a>
+
+
 ```yaml
 People who visit my profile :<3.
 
