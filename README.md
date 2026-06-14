@@ -1,6 +1,6 @@
 <a href="https://github.com/SubaruXnatsuki"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Subaru;I'm++Not+a+Developer+But+I'm+Learning+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Subaru;I'm++Not+a+Developer+yet,+But+I'm+Learning+" alt="Typing SVG" /></a> </p>
 
 ## **☕ About me**
 
